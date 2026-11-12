@@ -27,7 +27,7 @@
 <div align="center">
 
 <a href="https://github.com/afk3drp-dev/truesota-monitor">
-  <img src="https://raw.githubusercontent.com/afk3drp-dev/truesota-monitor/main/docs/hero_v120.png" alt="TrueSOTA Usage Monitor" width="100%" />
+  <img src="https://raw.githubusercontent.com/afk3drp-dev/truesota-monitor/main/docs/hero_v121.png" alt="TrueSOTA Usage Monitor" width="100%" />
 </a>
 
 <br /><br />
